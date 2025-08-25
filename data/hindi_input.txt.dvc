@@ -1,0 +1,5 @@
+outs:
+- md5: 38b0a8dc9e3dda6ce353a789d5f6bf1a
+  size: 518005530
+  hash: md5
+  path: hindi_input.txt
