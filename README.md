@@ -60,7 +60,9 @@ jupyter notebook src/Hindi_GPT.ipynb
 
 ## Data
 
-The Hindi training dataset is managed using DVC (Data Version Control) and contains approximately 518MB of Hindi text data. The dataset is stored as `hindi_input.txt` in the `data/` directory.
+The Hindi training dataset is managed using github lfs and contains approximately 518MB of Hindi text data. The dataset is stored as `hindi_input.txt` in the `data/` directory.
+
+Learning - Data in Fineweb2 by common crawl is really not good quality dataset for hindi language
 
 ## Model Output
 
