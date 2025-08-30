@@ -27,6 +27,11 @@ This project implements a GPT-2 model fine-tuned for Hindi language text generat
 - Jupyter notebook implementation
 - Github LFS because I tried DVC integration for data version control but it did not work, need to spend more time
 
+<img width="1512" height="498" alt="Screenshot 2025-08-30 at 7 25 04 PM" src="https://github.com/user-attachments/assets/ad33426d-0e64-475d-a6fd-f2a98cac7986" />
+<img width="1512" height="682" alt="Screenshot 2025-08-30 at 7 25 35 PM" src="https://github.com/user-attachments/assets/50e99232-d1e0-4c76-a839-7d2187dd6f27" />
+<img width="1512" height="834" alt="Screenshot 2025-08-30 at 7 26 35 PM" src="https://github.com/user-attachments/assets/672f57fa-ef33-4465-9119-83585726604c" />
+
+
 ## Requirements
 
 - Python 3.x
