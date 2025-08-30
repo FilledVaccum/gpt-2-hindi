@@ -1,10 +1,10 @@
 # GPT-2 Hindi
 
-A GPT-2 model implementation for Hindi text generation using Hugging Face transformers.
+A GPT-2 model implementation for Hindi text generation learning from Andrej Karpathy
 
 ## Overview
 
-This project implements a GPT-2 model fine-tuned for Hindi language text generation. The model uses a large Hindi text dataset to generate coherent Hindi text based on input prompts.
+This project implements a GPT-2 model fine-tuned for Hindi language text generation. The model uses a large Hindi text dataset to generate coherent Hindi text based on input prompts. It barely have 10 million parameters 
 
 ## Repository Structure
 
